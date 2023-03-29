@@ -51,8 +51,5 @@ button {
 
 .cover {
     background-color: rgba(0, 0, 0, 0.644);
-}
-
-.highlight {
     border: 2px solid white;
 }
